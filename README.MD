@@ -13,23 +13,23 @@
 <br/>Java applet 中的 audio 音乐播放
 
 ## 项目截图
-###  进入游戏
+- 进入游戏
 <img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/0.PNG" width = "200" div align=center />
-###  游戏排行
+- 游戏排行
 <img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/1.PNG" width = "200" div align=center />
-###  开始游戏
+- 开始游戏
 <img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/2.PNG" width = "200" div align=center />
-###  游戏暂停
+- 游戏暂停
 <img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/3.PNG" width = "200" div align=center />
-###  释放技能
+- 释放技能
 <img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/4.PNG" width = "200" div align=center />
-###  boss警告
+- boss警告
 <img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/5.PNG" width = "200" div align=center />
-###  释放技能
+- 释放技能
 <img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/6.PNG" width = "200" div align=center />
-###  低血线援助
+- 低血线援助
 <img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/7.PNG" width = "200" div align=center />
-###  游戏结束
+- 游戏结束
 <img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/8.PNG" width = "200" div align=center />
 
 ## 项目目录结构
@@ -42,14 +42,24 @@
 ├─readme				项目介绍所用资源
 └─shoot
     ├─audio_png			对外提供游戏图片以及背景音乐/音效
+
     │  ├─Bgm&Effec		游戏音效以及背景音乐
+
     │  └─pictures&		游戏单位的图片
-    ├─bullet
-    ├─button
+
+    ├─bullet			封装游戏子弹
+
+    ├─button			封装游戏按钮
+
     │  └─button-p		按钮图片
-    ├─core    			
-    ├─enemy
-    ├─friends
-    ├─key_borad
-    └─score
+
+    ├─core    			核心类所在包
+
+    ├─enemy				封装所有敌人
+
+    ├─friends			封装所有友军
+
+    ├─key_borad			封装所有键盘事件
+
+    └─score				游戏分数
 ```
