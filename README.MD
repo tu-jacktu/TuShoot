@@ -20,26 +20,26 @@
 - 游戏排行
 - 开始游戏
 <figure class="third">
-<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/0.png" width = "200" div align=center />
-<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/1.png" width = "200" div align=center />
-<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/2.png" width = "200" div align=center />
+<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/0.png" width = "200"  />
+<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/1.png" width = "200"  />
+<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/2.png" width = "200"  />
 </figure>
 - 游戏暂停
 - 释放技能
 - boss警告
 <figure class="third">
-<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/3.png" width = "200" div align=center />
-<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/4.png" width = "200" div align=center />
-<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/5.png" width = "200" div align=center />
+<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/3.png" width = "200"  />
+<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/4.png" width = "200"  />
+<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/5.png" width = "200"  />
 </figure>
 
 - 释放技能
 - 低血线援助
 - 游戏结束
 <figure class="third">
-<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/6.png" width = "200" div align=center />
-<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/7.png" width = "200" div align=center />
-<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/8.png" width = "200" div align=center />
+<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/6.png" width = "200"  />
+<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/7.png" width = "200"  />
+<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/8.png" width = "200"  />
 </figure>
 
 ## 项目目录结构
