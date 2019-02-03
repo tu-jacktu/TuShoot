@@ -14,20 +14,20 @@
 
 ## 项目截图
 ### 进入游戏
-![X](https://github.com/tu-jacktu/TuShoot/blob/master/readme/0.PNG)
+<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/0.PNG" width = "200" div align=center />
 ### 游戏排行
-![X](https://github.com/tu-jacktu/TuShoot/blob/master/readme/1.PNG)
+<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/0.PNG" width = "200" div align=center />
 ### 开始游戏
-![X](https://github.com/tu-jacktu/TuShoot/blob/master/readme/2.PNG)
+<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/0.PNG" width = "200" div align=center />
 ### 游戏暂停
-![X](https://github.com/tu-jacktu/TuShoot/blob/master/readme/3.PNG)
+<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/0.PNG" width = "200" div align=center />
 ### 释放技能
-![X](https://github.com/tu-jacktu/TuShoot/blob/master/readme/4.PNG)
+<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/0.PNG" width = "200" div align=center />
 ### boss警告
-![X](https://github.com/tu-jacktu/TuShoot/blob/master/readme/5.PNG)
+<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/0.PNG" width = "200" div align=center />
 ### 释放技能
-![X](https://github.com/tu-jacktu/TuShoot/blob/master/readme/6.PNG)
+<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/0.PNG" width = "200" div align=center />
 ### 低雪线援助
-![X](https://github.com/tu-jacktu/TuShoot/blob/master/readme/7.PNG)
+<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/0.PNG" width = "200" div align=center />
 ### 游戏结束
-![X](https://github.com/tu-jacktu/TuShoot/blob/master/readme/8.PNG)
+<img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/0.PNG" width = "200" div align=center />
