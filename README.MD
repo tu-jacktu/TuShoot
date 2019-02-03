@@ -16,6 +16,7 @@
 <br/>Java applet 中的 audio 音乐播放
 
 ## 项目截图
+
 - 进入游戏
 - 游戏排行
 - 开始游戏
@@ -24,6 +25,7 @@
 <img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/1.png" width = "200"  />
 <img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/2.png" width = "200"  />
 </figure>
+
 - 游戏暂停
 - 释放技能
 - boss警告
