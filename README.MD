@@ -27,7 +27,7 @@
 <img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/0.PNG" width = "200" div align=center />
 ### 释放技能
 <img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/0.PNG" width = "200" div align=center />
-### 低雪线援助
+### 低血线援助
 <img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/0.PNG" width = "200" div align=center />
 ### 游戏结束
 <img src="https://github.com/tu-jacktu/TuShoot/blob/master/readme/0.PNG" width = "200" div align=center />
