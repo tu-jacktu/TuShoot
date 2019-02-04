@@ -15,6 +15,15 @@
 <br/>Java awt 中 图片绘制 和 键盘事件
 <br/>Java applet 中的 audio 音乐播放
 
+## 开发环境
+- jdk 8
+- windows 10
+
+## 如何运行
+- jdk 7及其以上
+- 程序入口 TuShoot\shoot\core\World.java
+- 也可以用 exe4j 打包成 exe 运行 或是 打成 jar 运行
+
 ## 项目截图
 
 - 进入游戏
