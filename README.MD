@@ -1,4 +1,7 @@
 # TuShoot / 黯黑战舰 / 飞机大战
+
+### [GitHub地址](https://github.com/tu-jacktu/TuShoot)
+
 ### 声明
 >部分图片/声音 素材来自于网络,如有侵权请联系作者删除
 >邮箱 2388791326@qq.com
